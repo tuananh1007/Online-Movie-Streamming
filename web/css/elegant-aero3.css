@@ -1,0 +1,129 @@
+
+/* Elegant Aero */
+.elegant-aero3 {
+   
+    width: auto;
+    background: transparent;
+    padding: 20px 20px 1px 20px;
+    font: 12px Arial, Helvetica, sans-serif;
+    color: #666;
+
+}
+.elegant-aero3 h2 {
+    font: 20px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding: 14px 10px 10px 20px;
+    display: block;
+    background: transparent;
+    border-bottom: 1px solid #B8DDFF;
+    margin: -40px 10px 35px -30px;
+    position: relative;
+    top: 18px;
+    left: 20px;
+  
+}
+
+
+.elegant-aero3 h2>span {
+    display: block;
+    font-size: 11px;
+   
+    padding: 10px 0px 0px 20px;
+    margin: -10px 80px 0px 150px;
+}
+
+.elegant-aero3 label>span {
+    float: left;
+    margin-top: 10px;
+    color: #5E5E5E;
+}
+.elegant-aero3 label {
+    display: block;
+    margin: 0px 0px 5px;
+}
+.elegant-aero3 label>span {
+    float: left;
+    width: 20%;
+    text-align: right;
+    padding-right: 15px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.elegant-aero3 input[type="text"], .elegant-aero3 input[type="email"], .elegant-aero3 textarea, .elegant-aero3 select {
+    color: #888;
+    width: 70%;
+    padding: 0px 0px 0px 5px;
+    border: 1px solid #C5E2FF;
+    background: #FBFBFB;
+    outline: 0;
+    -webkit-box-shadow:inset 0px 1px 6px #ECF3F5;
+    box-shadow: inset 0px 1px 6px #ECF3F5;
+    font: 200 12px/25px Arial, Helvetica, sans-serif;
+    height: 30px;
+    line-height:15px;
+    margin: 2px 6px 16px 0px;
+}
+.elegant-aero3 textarea{
+    height:100px;
+    padding: 5px 0px 0px 5px;
+    width: 70%;
+}
+.elegant-aero3 select {
+    background: #fbfbfb url('down-arrow.png') no-repeat right;
+    background: #fbfbfb url('down-arrow.png') no-repeat right;
+   appearance:none;
+    -webkit-appearance:none; 
+   -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+    width: 70%;
+}
+
+.elegant-aero3 #select1 {
+    background: #fbfbfb url('down-arrow.png') no-repeat right;
+    background: #fbfbfb url('down-arrow.png') no-repeat right;
+   appearance:none;
+    -webkit-appearance:none; 
+   -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+    width: 22%;
+    
+}
+.elegant-aero3 .button{
+    padding: 10px 18px 10px 18px;
+    background: #66C1E4;
+    border: none;
+    color: #FFF;
+    box-shadow: 1px 1px 1px #4C6E91;
+    -webkit-box-shadow: 1px 1px 1px #4C6E91;
+    -moz-box-shadow: 1px 1px 1px #4C6E91;
+    text-shadow: 1px 1px 1px #5079A3;
+    
+}
+.elegant-aero3 .button:hover{
+    background: #3EB1DD;
+}
+
+.elegant-aero3 h2 img {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: -5px 20px 0px -15px ;
+    -webkit-border-radius: 99em;
+    -moz-border-radius: 99em;
+    border-radius: 99em;
+    border: 1px solid #eee;
+   
+    
+}
+
+.elegant-aero3 h2 p{
+    font-size: 13px;
+    float: left;
+    width: 100px;
+    height: 30px;
+    margin: 5px 20px 0px -10px ;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    text-align:center;
+}

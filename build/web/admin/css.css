@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+.bar
+{
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 18px;
+    border: 1px #333333 solid;
+    background-color: #000000;
+    background-repeat: repeat-x;
+    background-position: top;
+    margin-top: 4px;
+}
+.bar2
+{
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 18px;
+    border: 1px #333333 solid;
+    background-repeat: repeat-x;
+    background-position: top;
+    margin-top: 4px;
+}
+.table 
+{
+    border-collapse: collapse; border-spacing: 0; font-size: 100%; font-style: normal; font-weight: normal; text-decoration: none; width-max: auto;
+}
+.td 
+{
+    background: #e4ebf2; border: 1px solid #acbed4; color: #12537f; font-weight: bold; padding: 3px 10px;
+}
+.tdcon 
+{
+    border: 1px solid #acbed4; padding: 2px;
+}
+.noidung
+{
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 13px;
+    border: 1px #333333 solid;
+    background-repeat: repeat-x;
+    background-position: top;
+    margin-top: 4px;
+    padding: 3px;
+}
+.noidung1
+{
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 13px;
+    border: 1px #333333 solid;
+    background-repeat: repeat-x;
+    background-position: top;
+    margin-top: 4px;
+    padding: 3px;
+}
+.menu
+{
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 13px;
+    border: 1px #333333 solid;
+    background-repeat: repeat-x;
+    background-position: top;
+    margin-top: 1px;
+    padding: 4px;
+}
